@@ -19,6 +19,6 @@ Este repositório contém os scripts SQL referentes aos exercícios do curso de 
 
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone <link-do-repositorio>
+   git clone https://github.com/CoderAdx/Atividade_MySQL.git
 2. Abra o MySQL Workbench.
 3. Execute os scripts SQL individualmente conforme a necessidade.
